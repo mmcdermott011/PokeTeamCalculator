@@ -1,4 +1,3 @@
-# MW_GroupA
 
 POKEMON TEAM BUILDER
 
